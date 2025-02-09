@@ -1,4 +1,6 @@
-# Hi there 👋 I'm Ziheng Qi ![image](https://github.com/user-attachments/assets/4da63d52-f828-49e6-bdd4-6fc85d9f8bad)
+# Hi there 👋 I'm Ziheng Qi ![image](https://github.com/user-attachments/assets/d32e7817-6b74-4c0b-849f-329b00e74cf6)
+
+
 
 
 
