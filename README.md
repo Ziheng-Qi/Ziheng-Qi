@@ -1,15 +1,16 @@
-## Hi there 👋
-## 🔭 I’m currently a junior student in University of Illinois Urbana-Champaign ...
-<!--
-**Ziheng-Qi/Ziheng-Qi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm [Your Name]
 
-Here are some ideas to get you started:
+🎓 **Junior Student** @ **UIUC**  
+🧠 Passionate about **AI/ML** 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+
+**ML Tools**  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+
+## 📫 How to contact me
+- ✉️ Email: [zihengq2@illinois.edu](mailto:zihengq2@illinois.edu)
+
