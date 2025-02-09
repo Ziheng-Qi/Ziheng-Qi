@@ -1,16 +1,9 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm Ziheng Qi ![image](https://github.com/user-attachments/assets/4da63d52-f828-49e6-bdd4-6fc85d9f8bad)
 
-🎓 **Junior Student** @ **UIUC**  
-🧠 Passionate about **AI/ML** 
 
-## 🛠️ Tech Stack
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 
-**ML Tools**  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+🎓 Junior CompE Student @ UIUC  
 
-## 📫 How to contact me
-- ✉️ Email: [zihengq2@illinois.edu](mailto:zihengq2@illinois.edu)
+🎮 Passionate about AI/ML | ✏️ Interest in AI4Science and Deep Learning
 
+✉️ Email: [zihengq2@illinois.edu](mailto:zihengq2@illinois.edu)
