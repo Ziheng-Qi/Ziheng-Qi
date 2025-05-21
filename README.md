@@ -6,6 +6,6 @@
 
 🎓 Junior CompE Student @ UIUC  
 
-🎮 Passionate about AI/ML | ✏️ Interest in AI4Science and LLM
+🎮 Passionate about AI/ML 
 
 ✉️ Email: [zihengq2@illinois.edu](mailto:zihengq2@illinois.edu)
