@@ -4,7 +4,7 @@
 
 
 
-🎓 Junior CompE Student @ UIUC  
+🎓 Senior CompE Student @ UIUC  
 
 🎮 Passionate about AI/ML 
 
